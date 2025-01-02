@@ -1,4 +1,4 @@
-# Cohort10
+# Self Project
 
 Task 2 Noise, Noise, and More Noise 
 
